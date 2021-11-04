@@ -1,0 +1,13 @@
+
+C:\Users\Artem>git config --global user.name
+ArtemMakovskyy
+
+C:\Users\Artem>git config --global user.email
+photomak79@gmail.com
+
+C:\Users\Artem>git config --global -l
+gui.recentrepo=C:/Users/Artem/Documents/Quastions
+user.email=photomak79@gmail.com
+user.name=ArtemMakovskyy
+
+C:\Users\Artem>
